@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">B-B CourtCounter Plus</string>
+    <string name="please_enter_name">Please Select the Names of the Two Teams.</string>
+    <string name="submit">Next</string>
+
+    <string-array name="teams_A_array">
+        <item>Home Team</item>
+        <item>New York Knicks</item>
+        <item>Atlanta Hawks</item>
+        <item>Golden State Warriors</item>
+        <item>Charlotte Hornets</item>
+        <item>Toronto Raptors</item>
+        <item>Boston Celtics</item>
+        <item>Chicago Bulls</item>
+        <item>Denver Nuggets</item>
+        <item>Houston Rockets</item>
+        <item>Washington Wizards</item>
+    </string-array>
+    <string-array name="teams_B_array">
+        <item>Away Team</item>
+        <item>New York Knicks</item>
+        <item>Atlanta Hawks</item>
+        <item>Golden State Warriors</item>
+        <item>Charlotte Hornets</item>
+        <item>Toronto Raptors</item>
+        <item>Boston Celtics</item>
+        <item>Chicago Bulls</item>
+        <item>Denver Nuggets</item>
+        <item>Houston Rockets</item>
+        <item>Washington Wizards</item>
+    </string-array>
+
+
+    <string name="teamA_TextView">Home Team</string>
+    <string name="teamB_TextView">Away Team</string>
+    <string name="teamAScore_TextView">0</string>
+    <string name="plusThreePointsButton">+3 Points</string>
+    <string name="plusTwoPointsButton">+2 Points</string>
+    <string name="freeThrowButton">Free Throw</string>
+    <string name="endButton">End Game</string>
+    <string name="resetButton">Reset</string>
+
+
+
+    <string name="total_Score">Total Scores:</string>
+    <string name="total_Fouls">Fouls:</string>
+    <string name="closeButton">Close</string>
+    <string name="zero">0</string>
+
+</resources>
